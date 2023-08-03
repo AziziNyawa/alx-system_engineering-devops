@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script displays listen sockets with the Process identification number and name of the program to which each socket belongs
+
+netstat -lp
